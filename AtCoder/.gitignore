@@ -1,0 +1,20 @@
+# VScode settings
+.vscode/
+
+# C++ library
+library/
+
+# test file
+test.cpp
+tempCodeRunnerFile.cpp
+src/
+
+# input / output test file
+in.txt
+out.txt
+
+# Executable file
+*.exe
+*.out
+*.app
+*.o
